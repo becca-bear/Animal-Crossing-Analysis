@@ -1,5 +1,5 @@
 # Animal-Crossing-Analysis
-Data analysis on the video game Animal Crossing.
+Data analysis on the video game Animal Crossing on their species, personality and hobby type.
 
 
 
